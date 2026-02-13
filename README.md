@@ -76,7 +76,7 @@ const yutho = {
 </div>
 
 ---
-
+<!-- 
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -85,7 +85,7 @@ const yutho = {
   
 </div>
 
----
+--- -->
 
 ## 🔥 Streak Stats
 
