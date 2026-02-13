@@ -148,7 +148,7 @@ const yutho = {
   
   ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyutho-o&count_bg=%23A177F7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
   
-  <img src="https://raw.githubusercontent.com/yutho-o/yutho-o/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yutho-o/yutho-o/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
   ---
   
