@@ -107,28 +107,6 @@ const yutho = {
 
 ---
 
-## 💻 Most Used Languages
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutho-o&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=A177F7&icon_color=F8D866&langs_count=8)
-  
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/yutho-o/yutho-o">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yutho-o&repo=yutho-o&theme=react&hide_border=true&bg_color=1F222E&title_color=A177F7&icon_color=F8D866" />
-</a>
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
