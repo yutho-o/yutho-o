@@ -130,6 +130,4 @@ const yutho = {
   
   ---
   
-  **⭐️ From [yutho-o](https://github.com/yutho-o) with 💙**
-  
 </div>
