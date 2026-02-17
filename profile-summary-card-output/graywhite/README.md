@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/yutho-o/yutho-o/main/profile-summary-card-output/graywhite/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yutho-o/yutho-o/main/profile-summary-card-output/graywhite/4-productive-time.svg)
-```
-
-    

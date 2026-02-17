@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/yutho-o/yutho-o/main/profile-summary-card-output/material_palenight/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yutho-o/yutho-o/main/profile-summary-card-output/material_palenight/4-productive-time.svg)
-```
-
-    
